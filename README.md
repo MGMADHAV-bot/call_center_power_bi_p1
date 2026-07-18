@@ -1,7 +1,7 @@
 # PwC Call Centre Data Analysis (Power BI)
 
 ## 📌 Project Overview
-This project is part of the PwC Virtual Internship. It involves creating a Power BI dashboard to analyze call centre trends, measure agent performance, and track key metrics like CSAT, Call Volume, and Abandoned Calls.
+This project involves building an end-to-end Power BI dashboard to analyze call centre trends, track agent performance, and monitor key customer service metrics (like CSAT, Call Volume, and Abandoned Calls). The main goal is to derive actionable insights to improve overall call centre efficiency and customer satisfaction.
 
 ## 📊 Dashboard Preview
 <img width="1636" height="992" alt="My dashboard" src="https://github.com/user-attachments/assets/a9cb86f0-d0a5-4a4f-87a9-184854cdcd63" />
